@@ -1,2 +1,2 @@
 Bootstrap:docker
-From: panda292/tf-pip-yolo:latest
+From: panda292/tf-pip-yolo
